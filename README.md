@@ -1,4 +1,4 @@
-# 24174600034_Dao_Doan_Huy_Phuc_bai_tapLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer efficitur, eros at lacinia
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer efficitur, eros at lacinia
 suscipit, magna turpis aliquam est, sit amet aliquam quam libero id mi. Ut vel placerat risus.
 Sed tempor in ex vitae sodales. Donec et tempor orci. In pharetra viverra sagittis. Vestibulum
 risus ante, molestie ac eros efficitur, bibendum tincidunt turpis. In sit amet tortor gravida,
